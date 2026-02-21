@@ -42,3 +42,6 @@
 
 
 Update README with Welcome Message
+**Created by:** [Mark Soosaipillai] >> README.md
+echo
+echo **Created by:** Mark Soosaipillai
